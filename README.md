@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**HaomingJu/HaomingJu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# AI Token Show
 
-Here are some ideas to get you started:
+# Technology & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Static Badge](https://img.shields.io/badge/All-AI-brightgreen?style=for-the-badge)
+
+![Static Badge](https://img.shields.io/badge/OS-Linux%2FUbuntu-brightgreen?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Editor-neovim%2Fvim-brightgreen?style=for-the-badge)
+
+![Static Badge](https://img.shields.io/badge/Code-C%2B%2B-brightgreen?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Code-Python-brightgreen?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Code-Shell-brightgreen?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Compile-Cmake-brightgreen?style=for-the-badge)
+
+![Static Badge](https://img.shields.io/badge/CI%2FCD-Jenkins-brightgreen?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/CI%2FCD-Gitlab%2FCICD-brightgreen?style=for-the-badge)
+
+
+# Thanks
+- [Shields.io](https://shields.io/badges)
