@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # AI Token Show
-![Tokscale Tokens](https://tokscale.ai/api/badge/HaomingJu/svg)
+![Tokscale Tokens](https://tokscale.ai/api/badge/HaomingJu/svg?theme=light&compact=1)
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/HaomingJu/svg)](https://tokscale.ai/u/HaomingJu)
 # Technology & Tools
